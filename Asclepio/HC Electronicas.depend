@@ -1,0 +1,2237 @@
+# depslib dependency file v1.0
+1748282854 source:c:\users\user\desktop\hc electronicas\disenio.cpp
+	"rlutil.h"
+	<iostream>
+	<fstream>
+	<cstring>
+	<cstdlib>
+	"Disenio.h"
+
+1748182507 c:\users\user\desktop\hc electronicas\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1748282816 c:\users\user\desktop\hc electronicas\disenio.h
+
+1747966244 source:c:\users\user\desktop\hc electronicas\enum.cpp
+	"Enum.h"
+
+1747966244 c:\users\user\desktop\hc electronicas\enum.h
+	<string>
+
+1748283307 source:c:\users\user\desktop\hc electronicas\fecha.cpp
+	"Fecha.h"
+	<iostream>
+
+1748283096 c:\users\user\desktop\hc electronicas\fecha.h
+	<string>
+
+1748283108 source:c:\users\user\desktop\hc electronicas\main.cpp
+	<iostream>
+	"Persona.h"
+	"Profesional.h"
+	"Paciente.h"
+	"SignosDiariosManager.h"
+	"rlutil.h"
+	"Disenio.h"
+
+1747966244 c:\users\user\desktop\hc electronicas\persona.h
+	<string>
+
+1747966244 c:\users\user\desktop\hc electronicas\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1747966244 c:\users\user\desktop\hc electronicas\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1748279647 c:\users\user\desktop\hc electronicas\signosdiariosmanager.h
+	"SignosDiarios.h"
+	"SignosDiariosArchivo.h"
+	"Fecha.h"
+	<string>
+
+1748280480 c:\users\user\desktop\hc electronicas\signosdiarios.h
+	<string>
+	"Fecha.h"
+
+1748226937 c:\users\user\desktop\hc electronicas\signosdiariosarchivo.h
+	<string>
+	"TemplateArchivo.h"
+	"SignosDiarios.h"
+	"Fecha.h"
+
+1748228594 c:\users\user\desktop\hc electronicas\templatearchivo.h
+	<string>
+
+1747966244 source:c:\users\user\desktop\hc electronicas\paciente.cpp
+	"Paciente.h"
+	<cstring>
+
+1747966244 source:c:\users\user\desktop\hc electronicas\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1747966244 source:c:\users\user\desktop\hc electronicas\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1748228985 source:c:\users\user\desktop\hc electronicas\signosdiariosarchivos.cpp
+	"TemplateArchivo.h"
+	"SignosDiariosArchivo.h"
+	"SignosDiarios.h"
+	"Fecha.h"
+	<string>
+
+1748284288 source:c:\users\user\desktop\hc electronicas\signosdiarios.cpp
+	"SignosDiarios.h"
+	"rlutil.h"
+	"Disenio.h"
+	"Fecha.h"
+	<cstring>
+	<iostream>
+
+1748282567 source:c:\users\user\desktop\hc electronicas\signosdiariosmanager.cpp
+	"SignosDiariosManager.h"
+	"SignosDiariosArchivo.h"
+	"SignosDiarios.h"
+	"Fecha.h"
+	"rlutil.h"
+	"Disenio.h"
+	<iostream>
+
+1750197861 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\enum.cpp
+	"Enum.h"
+
+1750197849 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\enum.h
+	<string>
+
+1750201665 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750172732 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\persona.h
+	<string>
+
+1750262013 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1750261999 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1750545508 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\disenio.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+	<thread>
+	"Disenio.h"
+	"Fecha.h"
+
+1748318943 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750368633 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\disenio.h
+	"string"
+	"rlutil.h"
+	"Paciente.h"
+	"HistoriaClinica.h"
+
+1749776132 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+
+1749776104 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\fecha.h
+	<string>
+
+1750296523 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\paciente.cpp
+	<cstring>
+	"Paciente.h"
+
+1750173021 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1748319447 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosdiariosarchivos.cpp
+	"TemplateArchivo.h"
+	"SignosDiariosArchivo.h"
+	"SignosDiarios.h"
+	"Fecha.h"
+	<string>
+
+1749785341 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\templatearchivo.h
+	<iostream>
+	<string>
+
+1748319447 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosdiariosarchivo.h
+	<string>
+	"TemplateArchivo.h"
+	"SignosDiarios.h"
+	"Fecha.h"
+
+1749260424 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosdiarios.h
+	<string>
+	"Fecha.h"
+
+1748319447 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosdiariosmanager.cpp
+	"SignosDiariosManager.h"
+	"SignosDiariosArchivo.h"
+	"SignosDiarios.h"
+	"Fecha.h"
+	"rlutil.h"
+	"Disenio.h"
+	<iostream>
+
+1748319447 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosdiariosmanager.h
+	"SignosDiarios.h"
+	"SignosDiariosArchivo.h"
+	"Fecha.h"
+	<string>
+
+1750440948 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\main.cpp
+	<iostream>
+	"AppMenu.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750366052 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosxhistoriaclinica.h
+	<string>
+	"Fecha.h"
+
+1749260449 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosdiarios.cpp
+	"SignosDiarios.h"
+	"rlutil.h"
+	"Disenio.h"
+	"Fecha.h"
+	<cstring>
+	<iostream>
+
+1750262038 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinica.cpp
+	<iostream>
+	<cstring>
+	"HistoriaClinica.h"
+	"rlutil.h"
+
+1750261981 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinica.h
+	<string>
+	"Fecha.h"
+	"SignosVitales.h"
+
+1749818390 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\appmenu.h
+	"PacienteMenu.h"
+	"HistoriaClinicaMenu.h"
+
+1748319419 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\hcmenu.h
+	"EstudiosManager.h"
+
+1750365893 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosmanager.h
+	<string>
+	"EstudiosArchivo.h"
+
+1750267191 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudios.h
+	<string>
+
+1748447561 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosarchivo.h
+	<string>
+	"Estudios.h"
+	"TemplateArchivo.h"
+
+1750022286 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+	<thread>
+
+1750267248 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudios.cpp
+	<iostream>
+	<cstring>
+	"Estudios.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750264600 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosarchivo.cpp
+	<cstring>
+	"EstudiosArchivo.h"
+
+1750439367 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosmanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750390729 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosxhistoriaclinica.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinica.h"
+
+1748819277 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\hcmenu.cpp
+	<iostream>
+	"HCMenu.h"
+	"Disenio.h"
+
+1749818487 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinicamenu.h
+	"HistoriaClinicaManager.h"
+
+1750344114 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinicamanager.h
+	"HistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"ProfesionalXPacienteManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+
+1750033766 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinicaarchivo.h
+	<string>
+	"HistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750087431 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosvitales.h
+	<string>
+
+1750441774 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosxhistoriaclinicamanager.h
+	<string>
+	"EstudiosXHistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+
+1750365193 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosxhistoriaclinicaarchivo.h
+	<string>
+	"EstudiosXHistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750425737 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\pacientemanager.h
+	<string>
+	"PacienteArchivo.h"
+
+1749947010 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\pacientearchivo.h
+	<string>
+	"Paciente.h"
+	"TemplateArchivo.h"
+
+1750088123 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\validaciones.h
+	<string>
+	"fecha.h"
+
+1750365133 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosxhistoriaclinicaarchivo.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinicaArchivo.h"
+
+1750441967 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\estudiosxhistoriaclinicamanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosXHistoriaClinicaManager.h"
+	"EstudiosManager.h"
+	"Disenio.h"
+
+1750042672 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinicaarchivo.cpp
+	<cstring>
+	"HistoriaClinicaArchivo.h"
+
+1750389175 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinicamanager.cpp
+	<iostream>
+	"HistoriaClinicaManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+
+1750046118 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\historiaclinicamenu.cpp
+	<iostream>
+	"HistoriaClinicaMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750178301 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\pacientearchivo.cpp
+	<cstring>
+	"PacienteArchivo.h"
+
+1750441604 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750441475 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\pacientemenu.cpp
+	<iostream>
+	"PacienteMenu.h"
+	"PacienteArchivo.h"
+	"PacienteManager.h"
+	"Disenio.h"
+
+1749818609 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\pacientemenu.h
+	"PacienteManager.h"
+
+1750087536 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\signosvitales.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"SignosVitales.h"
+
+1750376623 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\validaciones.cpp
+	"Validaciones.h"
+	<iostream>
+	<regex>
+	"Disenio.h"
+	"rlutil.h"
+
+1750265891 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalmanager.h
+	<string>
+	"ProfesionalArchivo.h"
+
+1750197431 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalarchivo.h
+	<string>
+	"Profesional.h"
+	"TemplateArchivo.h"
+
+1750197509 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalarchivo.cpp
+	<cstring>
+	"ProfesionalArchivo.h"
+
+1750273252 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalmanager.cpp
+	<iostream>
+	<iomanip>
+	"profesionalManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750441851 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalxpacientemanager.h
+	"ProfesionalXPacienteArchivo.h"
+	"PacienteArchivo.h"
+
+1750338617 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalxpacientearchivo.h
+	<string>
+	"ProfesionalXPaciente.h"
+	"TemplateArchivo.h"
+
+1750342018 c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalxpaciente.h
+	<string>
+
+1750296663 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalxpaciente.cpp
+	<cstring>
+	"ProfesionalXPaciente.h"
+
+1750338715 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalxpacientearchivo.cpp
+	<cstring>
+	"ProfesionalXPacienteArchivo.h"
+
+1750441960 source:c:\users\miguels\desktop\programacion\5-utn\proyecto-programacion 2 code block\profesionalxpacientemanager.cpp
+	<iostream>
+	<iomanip>
+	"ProfesionalXPacienteManager.h"
+	"ProfesionalManager.h"
+	"Disenio.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+	<thread>
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\appmenu.h
+	"PacienteMenu.h"
+	"HistoriaClinicaMenu.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\pacientemenu.h
+	"PacienteManager.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\pacientemanager.h
+	<string>
+	"PacienteArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\pacientearchivo.h
+	<string>
+	"Paciente.h"
+	"TemplateArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\fecha.h
+	<string>
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\persona.h
+	<string>
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\templatearchivo.h
+	<iostream>
+	<string>
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinicamenu.h
+	"HistoriaClinicaManager.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinicamanager.h
+	"HistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"ProfesionalXPacienteManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinicaarchivo.h
+	<string>
+	"HistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinica.h
+	<string>
+	"Fecha.h"
+	"SignosVitales.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\signosvitales.h
+	<string>
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalmanager.h
+	<string>
+	"ProfesionalArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalarchivo.h
+	<string>
+	"Profesional.h"
+	"TemplateArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\enum.h
+	<string>
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosmanager.h
+	<string>
+	"EstudiosArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosarchivo.h
+	<string>
+	"Estudios.h"
+	"TemplateArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudios.h
+	<string>
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalxpacientemanager.h
+	"ProfesionalXPacienteArchivo.h"
+	"PacienteArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalxpacientearchivo.h
+	<string>
+	"ProfesionalXPaciente.h"
+	"TemplateArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalxpaciente.h
+	<string>
+
+1750636807 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosxhistoriaclinicamanager.h
+	<string>
+	"EstudiosXHistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosxhistoriaclinicaarchivo.h
+	<string>
+	"EstudiosXHistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosxhistoriaclinica.h
+	<string>
+	"Fecha.h"
+
+1750650278 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\disenio.h
+	"string"
+	"rlutil.h"
+	"Paciente.h"
+	"HistoriaClinica.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750654387 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\disenio.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<cstring>
+	<cstdlib>
+	<thread>
+	"Disenio.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"Fecha.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\enum.cpp
+	"Enum.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudios.cpp
+	<iostream>
+	<cstring>
+	"Estudios.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosarchivo.cpp
+	<cstring>
+	"EstudiosArchivo.h"
+
+1750636739 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosmanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750632434 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\validaciones.h
+	<string>
+	"fecha.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosxhistoriaclinica.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinica.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosxhistoriaclinicaarchivo.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinicaArchivo.h"
+
+1750654151 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\estudiosxhistoriaclinicamanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosXHistoriaClinicaManager.h"
+	"EstudiosManager.h"
+	"Disenio.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinica.cpp
+	<iostream>
+	<cstring>
+	"HistoriaClinica.h"
+	"rlutil.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinicaarchivo.cpp
+	<cstring>
+	"HistoriaClinicaArchivo.h"
+
+1750646793 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinicamanager.cpp
+	<iostream>
+	"HistoriaClinicaManager.h"
+	"HistoriaClinica.h"
+	"Validaciones.h"
+	"PacienteArchivo.h"
+	"Disenio.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\historiaclinicamenu.cpp
+	<iostream>
+	"HistoriaClinicaMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750650399 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\main.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\paciente.cpp
+	<cstring>
+	"Paciente.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\pacientearchivo.cpp
+	<cstring>
+	"PacienteArchivo.h"
+
+1750646540 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\pacientemenu.cpp
+	<iostream>
+	"PacienteMenu.h"
+	"PacienteArchivo.h"
+	"PacienteManager.h"
+	"Disenio.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalarchivo.cpp
+	<cstring>
+	"ProfesionalArchivo.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalmanager.cpp
+	<iostream>
+	<iomanip>
+	"profesionalManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalxpaciente.cpp
+	<cstring>
+	"ProfesionalXPaciente.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalxpacientearchivo.cpp
+	<cstring>
+	"ProfesionalXPacienteArchivo.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\profesionalxpacientemanager.cpp
+	<iostream>
+	<iomanip>
+	"ProfesionalXPacienteManager.h"
+	"ProfesionalManager.h"
+	"Disenio.h"
+
+1750652644 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\signosvitales.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"SignosVitales.h"
+
+1750632434 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll-migue\validaciones.cpp
+	"Validaciones.h"
+	<iostream>
+	<regex>
+	"Disenio.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+	<thread>
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\appmenu.h
+	"PacienteMenu.h"
+	"HistoriaClinicaMenu.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\pacientemenu.h
+	"PacienteManager.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\pacientemanager.h
+	<string>
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\pacientearchivo.h
+	<string>
+	"Paciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\fecha.h
+	<string>
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\persona.h
+	<string>
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\templatearchivo.h
+	<iostream>
+	<string>
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinicamenu.h
+	"HistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinicamanager.h
+	"HistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"ProfesionalXPacienteManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinicaarchivo.h
+	<string>
+	"HistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinica.h
+	<string>
+	"Fecha.h"
+	"SignosVitales.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\signosvitales.h
+	<string>
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalmanager.h
+	<string>
+	"ProfesionalArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalarchivo.h
+	<string>
+	"Profesional.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\enum.h
+	<string>
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosmanager.h
+	<string>
+	"EstudiosArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosarchivo.h
+	<string>
+	"Estudios.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudios.h
+	<string>
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalxpacientemanager.h
+	"ProfesionalXPacienteArchivo.h"
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalxpacientearchivo.h
+	<string>
+	"ProfesionalXPaciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalxpaciente.h
+	<string>
+
+1750972953 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosxhistoriaclinicamanager.h
+	<string>
+	"EstudiosXHistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+
+1750972650 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosxhistoriaclinicaarchivo.h
+	<string>
+	"EstudiosXHistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosxhistoriaclinica.h
+	<string>
+	"Fecha.h"
+
+1750972401 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\disenio.h
+	"string"
+	"rlutil.h"
+	"Paciente.h"
+	"HistoriaClinica.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750972425 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\disenio.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<cstdlib>
+	"EstudiosXHistoriaClinicaManager.h"
+	"Disenio.h"
+	"Fecha.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\enum.cpp
+	"Enum.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudios.cpp
+	<iostream>
+	<cstring>
+	"Estudios.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosarchivo.cpp
+	<cstring>
+	"EstudiosArchivo.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosmanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\validaciones.h
+	<string>
+	"fecha.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosxhistoriaclinica.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinica.h"
+
+1750972838 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosxhistoriaclinicaarchivo.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinicaArchivo.h"
+
+1750972953 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\estudiosxhistoriaclinicamanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosXHistoriaClinicaManager.h"
+	"EstudiosManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinica.cpp
+	<iostream>
+	<cstring>
+	"HistoriaClinica.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinicaarchivo.cpp
+	<cstring>
+	"HistoriaClinicaArchivo.h"
+
+1750972401 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinicamanager.cpp
+	<iostream>
+	"HistoriaClinicaManager.h"
+	"HistoriaClinica.h"
+	"Validaciones.h"
+	"PacienteArchivo.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\historiaclinicamenu.cpp
+	<iostream>
+	"HistoriaClinicaMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750973364 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\main.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"ProfesionalManager.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\paciente.cpp
+	<cstring>
+	"Paciente.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\pacientearchivo.cpp
+	<cstring>
+	"PacienteArchivo.h"
+
+1750963833 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+	"Estudios.h"
+	"EstudiosManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\pacientemenu.cpp
+	<iostream>
+	"PacienteMenu.h"
+	"PacienteArchivo.h"
+	"PacienteManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalarchivo.cpp
+	<cstring>
+	"ProfesionalArchivo.h"
+
+1750973344 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalmanager.cpp
+	<iostream>
+	<iomanip>
+	"profesionalManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalxpaciente.cpp
+	<cstring>
+	"ProfesionalXPaciente.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalxpacientearchivo.cpp
+	<cstring>
+	"ProfesionalXPacienteArchivo.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\profesionalxpacientemanager.cpp
+	<iostream>
+	<iomanip>
+	"ProfesionalXPacienteManager.h"
+	"ProfesionalManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\signosvitales.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"SignosVitales.h"
+
+1750905353 source:c:\users\user\desktop\tpfinalprogramacion ii\proyectoprogramacion-ll\validaciones.cpp
+	"Validaciones.h"
+	<iostream>
+	<regex>
+	"Disenio.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+	<thread>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\appmenu.h
+	"PacienteMenu.h"
+	"HistoriaClinicaMenu.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\pacientemenu.h
+	"PacienteManager.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\pacientemanager.h
+	<string>
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\pacientearchivo.h
+	<string>
+	"Paciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\fecha.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\persona.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\templatearchivo.h
+	<iostream>
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinicamenu.h
+	"HistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinicamanager.h
+	"HistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"ProfesionalXPacienteManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinicaarchivo.h
+	<string>
+	"HistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinica.h
+	<string>
+	"Fecha.h"
+	"SignosVitales.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\signosvitales.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalmanager.h
+	<string>
+	"ProfesionalArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalarchivo.h
+	<string>
+	"Profesional.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\enum.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosmanager.h
+	<string>
+	"EstudiosArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosarchivo.h
+	<string>
+	"Estudios.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\estudios.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalxpacientemanager.h
+	"ProfesionalXPacienteArchivo.h"
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalxpacientearchivo.h
+	<string>
+	"ProfesionalXPaciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalxpaciente.h
+	<string>
+
+1750951062 c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosxhistoriaclinicamanager.h
+	<string>
+	"EstudiosXHistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+
+1750952447 c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosxhistoriaclinicaarchivo.h
+	<string>
+	"EstudiosXHistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosxhistoriaclinica.h
+	<string>
+	"Fecha.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\disenio.h
+	"string"
+	"rlutil.h"
+	"Paciente.h"
+	"HistoriaClinica.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\disenio.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<cstdlib>
+	"EstudiosXHistoriaClinicaManager.h"
+	"Disenio.h"
+	"Fecha.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\enum.cpp
+	"Enum.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\estudios.cpp
+	<iostream>
+	<cstring>
+	"Estudios.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosarchivo.cpp
+	<cstring>
+	"EstudiosArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosmanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll-naty\validaciones.h
+	<string>
+	"fecha.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosxhistoriaclinica.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinica.h"
+
+1750952447 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosxhistoriaclinicaarchivo.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinicaArchivo.h"
+
+1750953661 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\estudiosxhistoriaclinicamanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosXHistoriaClinicaManager.h"
+	"EstudiosManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinica.cpp
+	<iostream>
+	<cstring>
+	"HistoriaClinica.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinicaarchivo.cpp
+	<cstring>
+	"HistoriaClinicaArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinicamanager.cpp
+	<iostream>
+	"HistoriaClinicaManager.h"
+	"HistoriaClinica.h"
+	"Validaciones.h"
+	"PacienteArchivo.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\historiaclinicamenu.cpp
+	<iostream>
+	"HistoriaClinicaMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750952180 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\main.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\paciente.cpp
+	<cstring>
+	"Paciente.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\pacientearchivo.cpp
+	<cstring>
+	"PacienteArchivo.h"
+
+1750953313 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+	"Estudios.h"
+	"EstudiosManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\pacientemenu.cpp
+	<iostream>
+	"PacienteMenu.h"
+	"PacienteArchivo.h"
+	"PacienteManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalarchivo.cpp
+	<cstring>
+	"ProfesionalArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalmanager.cpp
+	<iostream>
+	<iomanip>
+	"profesionalManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalxpaciente.cpp
+	<cstring>
+	"ProfesionalXPaciente.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalxpacientearchivo.cpp
+	<cstring>
+	"ProfesionalXPacienteArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\profesionalxpacientemanager.cpp
+	<iostream>
+	<iomanip>
+	"ProfesionalXPacienteManager.h"
+	"ProfesionalManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\signosvitales.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"SignosVitales.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll-naty\validaciones.cpp
+	"Validaciones.h"
+	<iostream>
+	<regex>
+	"Disenio.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+	<thread>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\appmenu.h
+	"PacienteMenu.h"
+	"HistoriaClinicaMenu.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\pacientemenu.h
+	"PacienteManager.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\pacientemanager.h
+	<string>
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\pacientearchivo.h
+	<string>
+	"Paciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\fecha.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\persona.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\templatearchivo.h
+	<iostream>
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinicamenu.h
+	"HistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinicamanager.h
+	"HistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"ProfesionalXPacienteManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinicaarchivo.h
+	<string>
+	"HistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinica.h
+	<string>
+	"Fecha.h"
+	"SignosVitales.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\signosvitales.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalmanager.h
+	<string>
+	"ProfesionalArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalarchivo.h
+	<string>
+	"Profesional.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\enum.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosmanager.h
+	<string>
+	"EstudiosArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosarchivo.h
+	<string>
+	"Estudios.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudios.h
+	<string>
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalxpacientemanager.h
+	"ProfesionalXPacienteArchivo.h"
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalxpacientearchivo.h
+	<string>
+	"ProfesionalXPaciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalxpaciente.h
+	<string>
+
+1750951062 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosxhistoriaclinicamanager.h
+	<string>
+	"EstudiosXHistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+
+1750952447 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosxhistoriaclinicaarchivo.h
+	<string>
+	"EstudiosXHistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosxhistoriaclinica.h
+	<string>
+	"Fecha.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\disenio.h
+	"string"
+	"rlutil.h"
+	"Paciente.h"
+	"HistoriaClinica.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\disenio.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<cstdlib>
+	"EstudiosXHistoriaClinicaManager.h"
+	"Disenio.h"
+	"Fecha.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\enum.cpp
+	"Enum.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudios.cpp
+	<iostream>
+	<cstring>
+	"Estudios.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosarchivo.cpp
+	<cstring>
+	"EstudiosArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosmanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\validaciones.h
+	<string>
+	"fecha.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosxhistoriaclinica.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinica.h"
+
+1750952447 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosxhistoriaclinicaarchivo.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinicaArchivo.h"
+
+1750963728 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\estudiosxhistoriaclinicamanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosXHistoriaClinicaManager.h"
+	"EstudiosManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinica.cpp
+	<iostream>
+	<cstring>
+	"HistoriaClinica.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinicaarchivo.cpp
+	<cstring>
+	"HistoriaClinicaArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinicamanager.cpp
+	<iostream>
+	"HistoriaClinicaManager.h"
+	"HistoriaClinica.h"
+	"Validaciones.h"
+	"PacienteArchivo.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\historiaclinicamenu.cpp
+	<iostream>
+	"HistoriaClinicaMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750952180 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\main.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\paciente.cpp
+	<cstring>
+	"Paciente.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\pacientearchivo.cpp
+	<cstring>
+	"PacienteArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\pacientemenu.cpp
+	<iostream>
+	"PacienteMenu.h"
+	"PacienteArchivo.h"
+	"PacienteManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalarchivo.cpp
+	<cstring>
+	"ProfesionalArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalmanager.cpp
+	<iostream>
+	<iomanip>
+	"profesionalManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalxpaciente.cpp
+	<cstring>
+	"ProfesionalXPaciente.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalxpacientearchivo.cpp
+	<cstring>
+	"ProfesionalXPacienteArchivo.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\profesionalxpacientemanager.cpp
+	<iostream>
+	<iomanip>
+	"ProfesionalXPacienteManager.h"
+	"ProfesionalManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\signosvitales.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"SignosVitales.h"
+
+1750905353 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\validaciones.cpp
+	"Validaciones.h"
+	<iostream>
+	<regex>
+	"Disenio.h"
+	"rlutil.h"
+
+1750963833 source:c:\users\user\desktop\proyectoprogramacion-ll- con el sub menu final naty\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+	"Estudios.h"
+	"EstudiosManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+	<thread>
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\appmenu.h
+	"PacienteMenu.h"
+	"HistoriaClinicaMenu.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\pacientemenu.h
+	"PacienteManager.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\pacientemanager.h
+	<string>
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\pacientearchivo.h
+	<string>
+	"Paciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\fecha.h
+	<string>
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\persona.h
+	<string>
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\templatearchivo.h
+	<iostream>
+	<string>
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\historiaclinicamenu.h
+	"HistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\historiaclinicamanager.h
+	"HistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"ProfesionalXPacienteManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\historiaclinicaarchivo.h
+	<string>
+	"HistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\historiaclinica.h
+	<string>
+	"Fecha.h"
+	"SignosVitales.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\signosvitales.h
+	<string>
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\profesionalmanager.h
+	<string>
+	"ProfesionalArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\profesionalarchivo.h
+	<string>
+	"Profesional.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\enum.h
+	<string>
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\estudiosmanager.h
+	<string>
+	"EstudiosArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\estudiosarchivo.h
+	<string>
+	"Estudios.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\estudios.h
+	<string>
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\profesionalxpacientemanager.h
+	"ProfesionalXPacienteArchivo.h"
+	"PacienteArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\profesionalxpacientearchivo.h
+	<string>
+	"ProfesionalXPaciente.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\profesionalxpaciente.h
+	<string>
+
+1750972953 c:\users\user\desktop\con el sub menu final naty\estudiosxhistoriaclinicamanager.h
+	<string>
+	"EstudiosXHistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+
+1750972650 c:\users\user\desktop\con el sub menu final naty\estudiosxhistoriaclinicaarchivo.h
+	<string>
+	"EstudiosXHistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\estudiosxhistoriaclinica.h
+	<string>
+	"Fecha.h"
+
+1750972401 c:\users\user\desktop\con el sub menu final naty\disenio.h
+	"string"
+	"rlutil.h"
+	"Paciente.h"
+	"HistoriaClinica.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\enum.cpp
+	"Enum.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\estudios.cpp
+	<iostream>
+	<cstring>
+	"Estudios.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\estudiosarchivo.cpp
+	<cstring>
+	"EstudiosArchivo.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\estudiosmanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 c:\users\user\desktop\con el sub menu final naty\validaciones.h
+	<string>
+	"fecha.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\estudiosxhistoriaclinica.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinica.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\historiaclinica.cpp
+	<iostream>
+	<cstring>
+	"HistoriaClinica.h"
+	"rlutil.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\historiaclinicaarchivo.cpp
+	<cstring>
+	"HistoriaClinicaArchivo.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\historiaclinicamenu.cpp
+	<iostream>
+	"HistoriaClinicaMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750973364 source:c:\users\user\desktop\con el sub menu final naty\main.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"ProfesionalManager.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\paciente.cpp
+	<cstring>
+	"Paciente.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\pacientearchivo.cpp
+	<cstring>
+	"PacienteArchivo.h"
+
+1750963833 source:c:\users\user\desktop\con el sub menu final naty\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+	"Estudios.h"
+	"EstudiosManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\pacientemenu.cpp
+	<iostream>
+	"PacienteMenu.h"
+	"PacienteArchivo.h"
+	"PacienteManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\profesionalarchivo.cpp
+	<cstring>
+	"ProfesionalArchivo.h"
+
+1750973344 source:c:\users\user\desktop\con el sub menu final naty\profesionalmanager.cpp
+	<iostream>
+	<iomanip>
+	"profesionalManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\profesionalxpaciente.cpp
+	<cstring>
+	"ProfesionalXPaciente.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\profesionalxpacientearchivo.cpp
+	<cstring>
+	"ProfesionalXPacienteArchivo.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\profesionalxpacientemanager.cpp
+	<iostream>
+	<iomanip>
+	"ProfesionalXPacienteManager.h"
+	"ProfesionalManager.h"
+	"Disenio.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\signosvitales.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"SignosVitales.h"
+
+1750905353 source:c:\users\user\desktop\con el sub menu final naty\validaciones.cpp
+	"Validaciones.h"
+	<iostream>
+	<regex>
+	"Disenio.h"
+	"rlutil.h"
+
+1750972425 source:c:\users\user\desktop\con el sub menu final naty\disenio.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<cstdlib>
+	"EstudiosXHistoriaClinicaManager.h"
+	"Disenio.h"
+	"Fecha.h"
+
+1750972401 source:c:\users\user\desktop\con el sub menu final naty\historiaclinicamanager.cpp
+	<iostream>
+	"HistoriaClinicaManager.h"
+	"HistoriaClinica.h"
+	"Validaciones.h"
+	"PacienteArchivo.h"
+	"Disenio.h"
+
+1750972838 source:c:\users\user\desktop\con el sub menu final naty\estudiosxhistoriaclinicaarchivo.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinicaArchivo.h"
+
+1750972953 source:c:\users\user\desktop\con el sub menu final naty\estudiosxhistoriaclinicamanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosXHistoriaClinicaManager.h"
+	"EstudiosManager.h"
+	"Disenio.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\appmenu.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+	<thread>
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\appmenu.h
+	"PacienteMenu.h"
+	"HistoriaClinicaMenu.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\pacientemenu.h
+	"PacienteManager.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\pacientemanager.h
+	<string>
+	"PacienteArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\pacientearchivo.h
+	<string>
+	"Paciente.h"
+	"TemplateArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\paciente.h
+	<string>
+	"Fecha.h"
+	"Persona.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\fecha.h
+	<string>
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\persona.h
+	<string>
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\templatearchivo.h
+	<iostream>
+	<string>
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinicamenu.h
+	"HistoriaClinicaManager.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinicamanager.h
+	"HistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+	"ProfesionalManager.h"
+	"EstudiosManager.h"
+	"ProfesionalXPacienteManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinicaarchivo.h
+	<string>
+	"HistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinica.h
+	<string>
+	"Fecha.h"
+	"SignosVitales.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\signosvitales.h
+	<string>
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalmanager.h
+	<string>
+	"ProfesionalArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalarchivo.h
+	<string>
+	"Profesional.h"
+	"TemplateArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesional.h
+	<string>
+	"Enum.h"
+	"Persona.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\enum.h
+	<string>
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosmanager.h
+	<string>
+	"EstudiosArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosarchivo.h
+	<string>
+	"Estudios.h"
+	"TemplateArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudios.h
+	<string>
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalxpacientemanager.h
+	"ProfesionalXPacienteArchivo.h"
+	"PacienteArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalxpacientearchivo.h
+	<string>
+	"ProfesionalXPaciente.h"
+	"TemplateArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalxpaciente.h
+	<string>
+
+1750972954 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosxhistoriaclinicamanager.h
+	<string>
+	"EstudiosXHistoriaClinicaArchivo.h"
+	"PacienteArchivo.h"
+
+1750972652 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosxhistoriaclinicaarchivo.h
+	<string>
+	"EstudiosXHistoriaClinica.h"
+	"TemplateArchivo.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosxhistoriaclinica.h
+	<string>
+	"Fecha.h"
+
+1756734843 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\disenio.h
+	"string"
+	"rlutil.h"
+	"Paciente.h"
+	"HistoriaClinica.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\enum.cpp
+	"Enum.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudios.cpp
+	<iostream>
+	<cstring>
+	"Estudios.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosarchivo.cpp
+	<cstring>
+	"EstudiosArchivo.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosmanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905354 c:\users\user\desktop\tpfinalprogramacion ii\asclepio\validaciones.h
+	<string>
+	"fecha.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosxhistoriaclinica.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinica.h"
+
+1750972840 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosxhistoriaclinicaarchivo.cpp
+	<iostream>
+	<cstring>
+	"EstudiosXHistoriaClinicaArchivo.h"
+
+1750972954 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\estudiosxhistoriaclinicamanager.cpp
+	<iostream>
+	<iomanip>
+	"EstudiosXHistoriaClinicaManager.h"
+	"EstudiosManager.h"
+	"Disenio.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinica.cpp
+	<iostream>
+	<cstring>
+	"HistoriaClinica.h"
+	"rlutil.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinicaarchivo.cpp
+	<cstring>
+	"HistoriaClinicaArchivo.h"
+
+1750972402 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinicamanager.cpp
+	<iostream>
+	"HistoriaClinicaManager.h"
+	"HistoriaClinica.h"
+	"Validaciones.h"
+	"PacienteArchivo.h"
+	"Disenio.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\historiaclinicamenu.cpp
+	<iostream>
+	"HistoriaClinicaMenu.h"
+	"Disenio.h"
+	"rlutil.h"
+
+1750973366 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\main.cpp
+	<iostream>
+	"AppMenu.h"
+	"Disenio.h"
+	"ProfesionalManager.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\paciente.cpp
+	<cstring>
+	"Paciente.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\pacientearchivo.cpp
+	<cstring>
+	"PacienteArchivo.h"
+
+1756734940 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\pacientemanager.cpp
+	<iostream>
+	"PacienteManager.h"
+	"Validaciones.h"
+	"Disenio.h"
+	"Estudios.h"
+	"EstudiosManager.h"
+	"EstudiosXHistoriaClinicaManager.h"
+	"ProfesionalXPacienteManager.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\pacientemenu.cpp
+	<iostream>
+	"PacienteMenu.h"
+	"PacienteArchivo.h"
+	"PacienteManager.h"
+	"Disenio.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\persona.cpp
+	"Persona.h"
+	<cstring>
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesional.cpp
+	"Profesional.h"
+	<cstring>
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalarchivo.cpp
+	<cstring>
+	"ProfesionalArchivo.h"
+
+1750973346 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalmanager.cpp
+	<iostream>
+	<iomanip>
+	"profesionalManager.h"
+	"Disenio.h"
+	"Validaciones.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalxpaciente.cpp
+	<cstring>
+	"ProfesionalXPaciente.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalxpacientearchivo.cpp
+	<cstring>
+	"ProfesionalXPacienteArchivo.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\profesionalxpacientemanager.cpp
+	<iostream>
+	<iomanip>
+	"ProfesionalXPacienteManager.h"
+	"ProfesionalManager.h"
+	"Disenio.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\signosvitales.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	"rlutil.h"
+	"SignosVitales.h"
+
+1750905354 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\validaciones.cpp
+	"Validaciones.h"
+	<iostream>
+	<regex>
+	"Disenio.h"
+	"rlutil.h"
+
+1756734826 source:c:\users\user\desktop\tpfinalprogramacion ii\asclepio\disenio.cpp
+	<iostream>
+	<vector>
+	<cstring>
+	<cstdlib>
+	"EstudiosXHistoriaClinicaManager.h"
+	"Disenio.h"
+	"Fecha.h"
+	<algorithm>
+	<cctype>
+
